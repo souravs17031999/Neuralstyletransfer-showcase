@@ -104,11 +104,18 @@ We can apply our [gradient descent algorithm](https://medium.com/secure-and-priv
 ![](pics/gradient.gif)  
 
 
-# Model architechture VGG19 and hyperparameters summary :
+# Model architechture VGG19 and hyperparameters summary :  
+
 
 ![](pics/vgg.png)  
 
+## Hyperparameters setting :  
 
+* total iteration steps : 20000
+* optimizer : [Adam](https://pytorch.org/docs/stable/_modules/torch/optim/adam.html)
+* Learning rate : 0.003
+* content_weight = 1 (alpha)
+* style_weight = 1e6 (beta)
     
 
 
