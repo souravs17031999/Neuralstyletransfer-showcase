@@ -30,4 +30,29 @@ Now, we are going to see what are content images and style images which we will 
 
 ![](pics/styleextract.png)
 
+### The algorithmic process explained in simpler way
+
+Suppose you start off with a empty canvas and starts painting it with your brush , and then you realized you are far away with what you imagined you would draw.
+Then a idea striked you and you feel amazed to understand that in order to go towards the right direction you need to draw like following those lines which you are imagining so that difference between what you imagined and what you are drawing is miniming and thereby taking towards your final image.
+
+![](pics/example1.png)
+
+Now think about this in terms of our content image and style image.
+The algorithm requires that we start with our target image (which is our final image) , now there are two options for doing this :
+* either we can start off by taking a empty convas
+* or we can start from cloning (or copying content image)
+
+Now let's understand this in geometrical way.
+(image has been oversimplified for simplicity but mathematical explanations also lies ahead)
+In the images , you can images a grid of pixels overlayed on them and try to understand.
+
+![](pics/distance.png)
+
+**euclidean distance** :
+
+![](pics/euclid.gif)
+
+We can clearly see from the image , euclidean distance between copied content image and target image is less as compared to previous one.
+
+
 ![](pics/neural.gif)
