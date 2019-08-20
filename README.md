@@ -83,7 +83,10 @@ where we weight the contribution of each layer’s loss by some factor wl
 where Gˡᵢⱼ and Aˡᵢⱼ are the respective style representation in layer l of input image x and style image 
 ![](pics/styleloss3.JPG)    
 
+You just need to know how dot product works.  
+Dot product is simply multiplication of vectors component wise (corresponding elements multiples).
 
+![](pics/grammatrix.JPG)    
 
 
 
