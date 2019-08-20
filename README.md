@@ -99,9 +99,17 @@ Now our objective is to minimize the total loss.
 
 **Minimize total loss :**
 
-We can apply our [gradient descent algorithm](https://medium.com/secure-and-private-ai-writing-challenge/playing-with-gradient-descent-intuition-e5bde385078) to minimize loss and [backpropogation algorithm](https://medium.com/secure-and-private-ai-writing-challenge/playing-with-backpropagation-algorithm-intuition-10c42578a8e8) to update parameters.
+We can apply our [gradient descent algorithm](https://medium.com/secure-and-private-ai-writing-challenge/playing-with-gradient-descent-intuition-e5bde385078) to minimize loss and [backpropogation algorithm](https://medium.com/secure-and-private-ai-writing-challenge/playing-with-backpropagation-algorithm-intuition-10c42578a8e8) to update parameters.  
 
-![](pics/gradient.gif)    
+![](pics/gradient.gif)  
+
+
+# Model architechture VGG19 and hyperparameters summary :
+
+![](pics/vgg19.png)  
+
+
+    
 
 
 ![](pics/neural.gif)
