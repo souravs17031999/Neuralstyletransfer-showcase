@@ -11,6 +11,6 @@ As we can see in the below picture how CNN's help in preserving spatial informat
 
 Hence, helping in extracting features , and also called feature extractors.
 
-
+This works on the idea of mathematical operation called **convulation** , in simple words it is simply superimposing one function over the other and here also , we are masking the image with matrices known as **"kernels"** or **"filters"** and the results produced are called **"feature maps"**.
 
 ![](pics/neural.gif)
