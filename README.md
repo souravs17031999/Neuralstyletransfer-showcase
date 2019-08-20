@@ -60,7 +60,8 @@ We can clearly see from the image , euclidean distance between copied content im
 
 Okay so we start with copied content image.  
 But then how do we proceed further.  
-So, the 
-
+So, basically CNN's have convolutional layers with classifier layers but since we need not classify anything here , so we will just use CNN as a feature extractor to extract edges, contours from content image and mix them up with textures extracted from style image to create a whole new artistic target image.
+But how do we go about doing it.  
+So, here now we wanna understood formally the loss functions separately as content loss and style loss considering distance between content image and target image and distance between style image and target image.
 
 ![](pics/neural.gif)
