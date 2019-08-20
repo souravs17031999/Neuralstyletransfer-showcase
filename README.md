@@ -49,7 +49,9 @@ In the images , you can images a grid of pixels overlayed on them and try to und
 
 ![](pics/distance.png)
 
+
 **euclidean distance** :
+
 
 ![](pics/euclid.gif)
 
