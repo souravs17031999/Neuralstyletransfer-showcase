@@ -13,7 +13,18 @@ Hence, helping in extracting features , and also called feature extractors.
 
 This works on the idea of mathematical operation called **convolution** , in simple words it is simply superimposing one function over the other and here also , we are masking the image with matrices known as **"kernels"** or **"filters"** and the results produced are called **"feature maps"**.
 
-This graphics illustrates under the hood calculation of different feature maps which then combines over all the channels (1 for gray scale images and 3 for RGB images) produces the final result.
-
 ![](pics/cnnneural.gif)
+
+This graphics illustrates under the hood calculation of different feature maps which then combines over all the channels (1 for gray scale images and 3 for RGB images) produces the final result.
+We can detect edges, contours based on the results of feature maps produced as sudden change in light intensity pixels confirms there is a edge so there values in features maps will signifactly differ around that region.
+
+### Content and Style images
+So, now we know how to extract features from a image using CNN.
+Now, we are going to see what are content images and style images which we will be using in our algorithm to generate some new awesome artistic images.
+
+**Content images** : images from which we are going to extract contours, borders, edges.
+
+![](pics/contentextract.png)
+
+
 ![](pics/neural.gif)
