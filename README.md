@@ -101,7 +101,7 @@ Now our objective is to minimize the total loss.
 
 We can apply our [gradient descent algorithm](https://medium.com/secure-and-private-ai-writing-challenge/playing-with-gradient-descent-intuition-e5bde385078) to minimize loss and [backpropogation algorithm](https://medium.com/secure-and-private-ai-writing-challenge/playing-with-backpropagation-algorithm-intuition-10c42578a8e8) to update parameters.
 
-![](pics/gradient.png)    
+![](pics/gradient.gif)    
 
 
 ![](pics/neural.gif)
