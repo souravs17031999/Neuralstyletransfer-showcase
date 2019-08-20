@@ -44,6 +44,7 @@ The algorithm requires that we start with our target image (which is our final i
 
 Now let's understand this in geometrical way.
 (image has been oversimplified for simplicity but mathematical explanations also lies ahead)
+
 In the images , you can images a grid of pixels overlayed on them and try to understand.
 
 ![](pics/distance.png)
