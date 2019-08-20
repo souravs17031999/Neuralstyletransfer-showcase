@@ -64,10 +64,10 @@ So, basically CNN's have convolutional layers with classifier layers but since w
 But how do we go about doing it.  
 So, here now we wanna understood formally the _loss functions_ separately as content loss and style loss considering _distance between content image and target image and distance between style image and target image._
 
-**content loss : **    
+**content loss :**    
 ![](pics/contentloss.JPG)   
 
-**style loss : **    
+**style loss :**    
 ![](pics/styleloss1.JPG)    
 ![](pics/styleloss2.JPG)    
 
