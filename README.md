@@ -67,9 +67,11 @@ So, here now we wanna understood formally the _loss functions_ separately as con
 **content loss :**    
 ![](pics/contentloss.JPG)   
 
+
 **style loss :**    
 ![](pics/styleloss1.JPG)    
-![](pics/styleloss2.JPG)    
+![](pics/styleloss2.JPG)  
+![](pics/styleloss3.JPG)    
 
 
 
