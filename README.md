@@ -124,3 +124,8 @@ We can apply our [gradient descent algorithm](https://medium.com/secure-and-priv
 # The Results : 
 
 * ![](pics/neural.gif)
+* ![](pics/result1.JPG)
+* ![](pics/result2.JPG)
+* ![](pics/result3.JPG)
+* ![](pics/result4.JPG)
+* ![](pics/result5.JPG)
