@@ -119,6 +119,8 @@ We can apply our [gradient descent algorithm](https://medium.com/secure-and-priv
 * content_weight = 1 (alpha)
 * style_weight = 1e6 (beta)
     
+![](pics/main.png)
 
+# The Results : 
 
-![](pics/neural.gif)
+* ![](pics/neural.gif)
