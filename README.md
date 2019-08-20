@@ -106,7 +106,7 @@ We can apply our [gradient descent algorithm](https://medium.com/secure-and-priv
 
 # Model architechture VGG19 and hyperparameters summary :
 
-![](pics/vgg19.png)  
+![](pics/vgg.png)  
 
 
     
