@@ -47,11 +47,11 @@ Now let's understand this in geometrical way.
 
 In the images , you can imagine a grid of pixels overlayed on them and try to understand.
 
-![](pics/distance.png)
+![](pics/distance.png)  
+
 
 
 **euclidean distance** :  
-
 
 ![](pics/euclid.gif)
 
