@@ -26,5 +26,8 @@ Now, we are going to see what are content images and style images which we will 
 
 ![](pics/contentextract.png)
 
+**Style images** : images from which we are going to extract textures, styles, artistic effects.
+
+![](pics/styleextract.png)
 
 ![](pics/neural.gif)
