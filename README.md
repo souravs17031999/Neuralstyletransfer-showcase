@@ -84,15 +84,24 @@ where Gˡᵢⱼ and Aˡᵢⱼ are the respective style representation in layer l
 ![](pics/styleloss3.JPG)    
 
 You just need to know how dot product works.  
-Dot product is simply multiplication of vectors component wise (corresponding elements multiples).
+Dot product is simply multiplication of vectors component wise (corresponding elements multiplies).
 
 ![](pics/grammatrix.JPG)    
 
 
+Hence, total loss will be as follows :
 
+![](pics/totalloss.JPG)    
 
+where α and β are the weighting factors for content and style reconstruction, respectively.   
 
+Now our objective is to minimize the total loss.
 
+**Minimize total loss :**
+
+We can apply our [gradient descent algorithm](https://medium.com/secure-and-private-ai-writing-challenge/playing-with-gradient-descent-intuition-e5bde385078) to minimize loss and [backpropogation algorithm](https://medium.com/secure-and-private-ai-writing-challenge/playing-with-backpropagation-algorithm-intuition-10c42578a8e8) to update parameters.
+
+![](pics/gradient.png)    
 
 
 ![](pics/neural.gif)
