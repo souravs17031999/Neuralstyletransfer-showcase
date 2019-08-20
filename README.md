@@ -50,12 +50,16 @@ In the images , you can imagine a grid of pixels overlayed on them and try to un
 ![](pics/distance.png)
 
 
-**euclidean distance** :
+**euclidean distance** :  
 
 
 ![](pics/euclid.gif)
 
 We can clearly see from the image , euclidean distance between copied content image and target image is less as compared to previous one.
+
+Okay so we start with copied content image.  
+But then how do we proceed further.  
+So, the 
 
 
 ![](pics/neural.gif)
