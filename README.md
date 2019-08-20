@@ -42,8 +42,9 @@ The algorithm requires that we start with our target image (which is our final i
 * either we can start off by taking a empty convas
 * or we can start from cloning (or copying content image)
 
-Now let's understand this in geometrical way.
-(image has been oversimplified for simplicity but mathematical explanations also lies ahead)
+Now let's understand this in geometrical way.  
+
+> (image has been oversimplified for simplicity but mathematical explanations also lies ahead)
 
 In the images , you can imagine a grid of pixels overlayed on them and try to understand.
 
