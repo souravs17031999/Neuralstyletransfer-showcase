@@ -65,13 +65,26 @@ But how do we go about doing it.
 So, here now we wanna understood formally the _loss functions_ separately as content loss and style loss considering _distance between content image and target image and distance between style image and target image._
 
 **content loss :**    
+
+Let Fˡᵢⱼ(x)∈ Cₙₙ(x)and Pˡᵢⱼ(x) ∈ Cₙₙ(x) describe the respective intermediate feature representation of the network with inputs x and p at layer l   
+
 ![](pics/contentloss.JPG)   
 
 
 **style loss :**    
+
+correlation between different filter responses given by the **Gram matrix Gˡ**, where Gˡᵢⱼ is the inner product between the vectorized feature map i and j in layer l. We can see that Gˡᵢⱼ generated over the feature map for a given image represents the correlation between feature maps i and j.  
+Thus, the total style loss across each layer is
 ![](pics/styleloss1.JPG)    
-![](pics/styleloss2.JPG)  
+
+where we weight the contribution of each layer’s loss by some factor wl  
+![](pics/styleloss2.JPG)   
+
+where Gˡᵢⱼ and Aˡᵢⱼ are the respective style representation in layer l of input image x and style image 
 ![](pics/styleloss3.JPG)    
+
+
+
 
 
 
