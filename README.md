@@ -123,6 +123,10 @@ We can apply our [gradient descent algorithm](https://medium.com/secure-and-priv
 
 # The Results : 
 
-* ![](pics/neural.gif)
-> Combined results of different images
-* ![](pics/result.gif)
+* ![](pics/neural.gif)    
+> Combined results of different images    
+* ![](pics/result.gif)       
+
+⭐️ this Project if you liked it !
+
+
