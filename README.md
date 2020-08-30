@@ -126,6 +126,8 @@ We can apply our [gradient descent algorithm](https://medium.com/secure-and-priv
 * ![](pics/neural.gif)    
 > Combined results of different images    
 
+[NOTE] : Since the notebook file is large so there are chances it will not open up on Github, if that happens, i have also uploaded project report (PDF) which will open fast.      
+
 ⭐️ this Project if you liked it !
 
 
