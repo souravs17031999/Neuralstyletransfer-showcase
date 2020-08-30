@@ -125,7 +125,6 @@ We can apply our [gradient descent algorithm](https://medium.com/secure-and-priv
 
 * ![](pics/neural.gif)    
 > Combined results of different images    
-* ![](pics/result.gif)       
 
 ⭐️ this Project if you liked it !
 
