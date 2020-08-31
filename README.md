@@ -1,5 +1,11 @@
-# Project Objective: 
-## This project aims to acheive neural style transfer using the algorithm given by Paper [Image Style Transfer Using Convolutional Neural Networks by Gatys](https://arxiv.org/pdf/1508.06576.pdf), implemented in [Pytorch](https://pytorch.org/).   
+# Project Objective : 
+## This project aims to acheive neural style transfer using the algorithm given by Paper [Image Style Transfer Using Convolutional Neural Networks by Gatys](https://arxiv.org/pdf/1508.06576.pdf), implemented in [Pytorch](https://pytorch.org/).      
+
+This is a volunteering project made for social cause.   
+I was a part of team of around 10-15 people and collaborated on a project which aimed to design AI generated images using style transfer or GAN's and print it on tees and the 
+sales produced through it is given to charity.   
+Tees printed with AI generated images were sold on TeeSpring.   
+(For more details about charity see below)
 
 ![](pics/neural.gif)    
 
@@ -127,6 +133,7 @@ We can apply our [gradient descent algorithm](https://medium.com/secure-and-priv
 > Combined results of different images    
 
 [NOTE] : Since the notebook file is large so there are chances it will not open up on Github, if that happens, i have also uploaded project report (PDF) which will open fast.      
+[NOTE] : Everything about the scope of project and charity : [click for team repo](https://github.com/parthatom/GANonTshirtTutorial)
 
 ⭐️ this Project if you liked it !
 
