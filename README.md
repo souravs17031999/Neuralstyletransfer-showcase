@@ -1,10 +1,9 @@
 # Project Objective : 
 ## This project aims to acheive neural style transfer using the algorithm given by Paper [Image Style Transfer Using Convolutional Neural Networks by Gatys](https://arxiv.org/pdf/1508.06576.pdf), implemented in [Pytorch](https://pytorch.org/).      
 
-This is a volunteering project made for social cause.   
-I was a part of team of around 10-15 people and collaborated on a project which aimed to design AI generated images using style transfer or GAN's and print it on tees and the 
-sales produced through it is given to charity.   
-Tees printed with AI generated images were sold on TeeSpring.   
+This is a volunteering project made for social cause for Project #t-shirt. 
+I along with my team of highly enthusiastic data scientists/machine learning/deep learning engineers collaborated on a project which aimed to design AI generated images using style transfer or GAN's and print it on tees and the sales produced through it is given to charity.     
+Tees/stickers/mugs etc.. printed with AI generated images were sold on TeeSpring.     
 (For more details about charity see below)
 
 ![](pics/neural.gif)    
