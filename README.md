@@ -14,9 +14,10 @@ These AI-generated artworks were printed on eco-friendly T-shirts and sold via T
 This initiative is a step toward tech for good — where artificial intelligence becomes a medium of empathy, education, and environmental action.
 
 Tees/stickers/mugs etc.. printed with AI generated images were sold on TeeSpring.     
-(For more details about charity see below)
 
-![](pics/neural.gif)    
+> This was my final designed artistic photo made for stickers on tees/mugs etc.. [Buy at teespring](https://teespring.com/shop/tshirt-stickers-31?tsmac=recently_viewed&tsmic=recently_viewed&pid=663&cid=102920)    
+![tees1](pics/tees1.JPG)        
+![tees2](pics/tees2.JPG)  
 
 
 # Theory and basic overview :
@@ -141,11 +142,10 @@ We can apply our [gradient descent algorithm](https://medium.com/secure-and-priv
 * ![](pics/neural.gif)    
 > Combined results of different images    
 
-
 # Some more photos :     
-> This was my final designed artistic photo made for stickers on tees/mugs etc.. [Buy at teespring](https://teespring.com/shop/tshirt-stickers-31?tsmac=recently_viewed&tsmic=recently_viewed&pid=663&cid=102920)    
-![tees1](pics/tees1.JPG)        
-![tees2](pics/tees2.JPG)    
+
+![](pics/neural.gif)    
+
 
 [NOTE] : Since the notebook file is large so there are chances it will not open up on Github, if that happens, i have also uploaded project report (PDF) which will open fast.      
 [NOTE] : Everything about the scope of project and charity : [click for team repo](https://github.com/parthatom/GANonTshirtTutorial)
