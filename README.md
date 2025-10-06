@@ -1,9 +1,18 @@
 # Project Objective : 
 ## This project aims to acheive neural style transfer using the algorithm given by Paper [Image Style Transfer Using Convolutional Neural Networks by Gatys](https://arxiv.org/pdf/1508.06576.pdf), implemented in [Pytorch](https://pytorch.org/).      
 
+# Motivation 
+
 This is a volunteering project made for social cause for Project #t-shirt.
 
+This project was created as a **social-good initiative** to combine AI creativity with **environmental activism**. We used generative AI models to design powerful, thought-provoking graphics centered around themes like **global warming, deforestation, ocean pollution, and renewable energy**. Each design aimed to visually communicate the impact of human actions on the planet — turning data and concern into art that inspires awareness.   
+
 I along with my team of highly enthusiastic data scientists/machine learning/deep learning engineers collaborated on a project which aimed to design AI generated images using style transfer or GAN's and print it on tees and the sales produced through it is given to charity.     
+
+These AI-generated artworks were printed on eco-friendly T-shirts and sold via Teespring. The proceeds from every sale were **donated to students supported by Code.org**, helping fund computer science education for underprivileged learners — thereby linking environmental awareness with educational empowerment.  
+
+This initiative is a step toward tech for good — where artificial intelligence becomes a medium of empathy, education, and environmental action.
+
 Tees/stickers/mugs etc.. printed with AI generated images were sold on TeeSpring.     
 (For more details about charity see below)
 
